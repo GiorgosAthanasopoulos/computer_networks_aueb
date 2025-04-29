@@ -1,4 +1,7 @@
-package giorgosathanasopoulos.com.github.computer_networks_aueb.model;
+package giorgosathanasopoulos.com.github.computer_networks_aueb.server;
+
+import java.io.IOException;
+import java.net.Socket;
 
 // TODO: ability to login
 // TODO: ability to sign up

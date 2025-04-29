@@ -1,11 +1,13 @@
-package giorgosathanasopoulos.com.github.computer_networks_aueb.model;
+package giorgosathanasopoulos.com.github.computer_networks_aueb.client;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import giorgosathanasopoulos.com.github.computer_networks_aueb.model.Profile;
+import giorgosathanasopoulos.com.github.computer_networks_aueb.model.SocialGraph;
 import giorgosathanasopoulos.com.github.computer_networks_aueb.uid.UID;
 
-// TODO: create client directory (class?) 
+// TODO: create client directory (class?)
 // TODO: keep client directory synchronized with the server
 
 // TODO: access_profile following (no access to profile's dir neither locally nor remotely)
